@@ -26,7 +26,7 @@ Avionics Bay CAD
 | C34 | Capacitor | 1 | 22 µF 0603 | https://www.digikey.com/en/products/detail/murata-electronics/GRM188R60J226MEA0 |
 | C26, C38, C39 | Capacitor | 3 | 100 nF 0603 | https://www.digikey.com/en/products/detail/murata-electronics/GRM188R71C104KA01D |
 | R2, R3, R4, R8, R9, R10, R11, R12, R13, R14, R15, R18 | Resistor | 12 | 10 kΩ 0603 | https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL |
-| R16, R17 | Resistor | 2 | 0603 (TBD value) | https://www.digikey.com/en/products/detail/yageo/RC0603FR |
+| R16, R17 | Resistor | 2 | 0603 220ohm | https://www.digikey.com/en/products/detail/yageo/RC0603FR |
 | U3 | Microcontroller | 1 | STM32F405RGT6 | https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F405RGT6 |
 | IC1 | SPI Flash Memory | 1 | W25Q128JVFIQ | https://www.digikey.com/en/products/detail/winbond-electronics/W25Q128JVFIQ |
 | U2 | Barometric Pressure Sensor | 1 | MS5611-01BA | https://www.digikey.com/en/products/detail/te-connectivity/MS5611-01BA |
